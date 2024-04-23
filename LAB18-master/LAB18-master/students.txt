@@ -1,0 +1,29 @@
+Monkey D. Luffy,1001,M,1.45
+Roronoa Zoro,1002,M,2.78
+Nami,1003,F,4.00
+Usopp,1004,M,3.32
+Sanji,1005,M,3.85
+Tony Tony Chopper,1006,M,1.50
+Nico Robin,1007,F,4.00
+Franky,1008,M,2.85
+Brook,1009,M,2.87
+Dracule Mihawk,1234,M,2.35
+Donquixote Doflamingo,1345,M,4.00
+Jimbei,1456,M,3.33
+Koby,2100,M,2.56
+Kizaru,2345,M,2.55
+Smoker,2589,M,3.42
+Trafalgar Law,2222,M,3.87
+Akainu,4578,M,3.65
+Aokiji,4144,M,3.45
+Arlong,1458,M,1.58
+Bartholomew Kuma,9999,M,2.99
+Boa Hancock,9875,F,2.65
+Buggy,7878,M,1.99
+Caesar Clown,8585,M,4.00
+Monkey D. Garp,2312,M,1.46
+Portgas D. Ace,1245,M,2.00
+Gol D. Roger,4444,M,4.00
+Big Mom,8888,F,3.88
+Pudding,8887,F,3.87
+Kaido,8886,M,1.56
